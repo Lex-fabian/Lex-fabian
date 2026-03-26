@@ -19,9 +19,9 @@ Desarrollador apasionado por construir soluciones reales que resuelven problemas
 | Proyecto | Descripción | Tech |
 |---|---|---|
 | 🌾 **Nova App** | Control y gestión de siembra y cosecha de productos agrícolas | Flutter · Firebase |
-| 🔒 **Nova Security** | Gestión de guardias con notificaciones push en tiempo real | Flutter · FCM · Node.js |
-| 🏭 **Nova Production** | Control de corte y empaquetado de productos agrícolas | Flutter · PostgreSQL |
-| 📦 **Savreh Control** | Gestión de stock y creación de proformas comerciales | Flutter · Firestore |
+| 🔒 **Nova Security** | Gestión de guardias con notificaciones push en tiempo real | Flutter · Firebase |
+| 🏭 **Nova Production** | Control de corte y empaquetado de productos agrícolas | Flutter · Firebase |
+| 📦 **Savreh Control** | Gestión de stock y creación de proformas comerciales | Nest.js · Vue.js · PostgreSQL |
 
 ---
 
