@@ -7,6 +7,8 @@
 Desarrollador de software enfocado en construir **soluciones web y móviles** para procesos empresariales reales.  
 Actualmente trabajo en **Nova Alimentos S.A.**, desarrollando herramientas tecnológicas vinculadas a operaciones internas y flujos de trabajo conectados con **TransportHERBER, SAVREH, SINOPARTS, ECUALIMFOOD y EcuaNovagri**.
 
+También he trabajado en proyectos para otras empresas, incluyendo soluciones administrativas con enfoque en **Inteligencia Artificial aplicada**, como sistemas de facturación inteligente.
+
 Me especializo en el desarrollo de aplicaciones con **Flutter, Vue, JavaScript y TypeScript**, con enfoque en sistemas administrativos, automatización de procesos y plataformas internas escalables.
 
 - 🌱 Siempre aprendiendo sobre **arquitectura de software**, **mejores prácticas de desarrollo** y **soluciones escalables**
@@ -17,17 +19,16 @@ Me especializo en el desarrollo de aplicaciones con **Flutter, Vue, JavaScript y
 
 ## 🚀 Proyectos Destacados
 
-> Proyectos relacionados con soluciones desarrolladas para entornos empresariales reales
-
-| Proyecto | Descripción | Tech |
+| Proyecto | Descripción | Stack |
 |---|---|---|
-| 📅 **Reservas** | Sistema de gestión de reservas de áreas con versión web y móvil | JavaScript · TypeScript · CSS |
-| 📦 **savreh-control** | Sistema para generación de proformas y gestión comercial en SAVREH | Vue · TypeScript · CSS |
-| 🚚 **transportherber** | Aplicación móvil para la administración de operaciones de transporte | Flutter · Dart |
-| 🥗 **nova-alimentos-app-v2** | Segunda versión de una app con enfoque en mejor escalabilidad | Flutter · Dart |
-| 🏭 **nova-produccion** | Aplicación móvil orientada a procesos de producción | Flutter · Dart |
-| 🌐 **nova-web** | Plataforma web con interfaz moderna para entorno empresarial | Vue · JavaScript · CSS |
-| 📲 **nst-apk** | Landing page para centralizar y distribuir APKs de proyectos internos | Vue |
+|  **Reservas** | Plataforma de reservas con versión web, backend y aplicación móvil | Web · Mobile · Backend |
+|  **savreh-control** | Sistema comercial para gestión de productos, clientes, ventas y proformas en SAVREH | Vue 3 · NestJS · TypeScript · Supabase |
+|  **transportherber** | App móvil para gestión integral de transporte, rutas, choferes y operaciones | Flutter · Firebase · Drift |
+|  **nova-app** | Aplicación móvil para gestión agrícola con arquitectura más escalable | Flutter · Firebase · SQLite |
+|  **nova-produccion** | App móvil para digitalizar procesos de producción en planta | Flutter · Firebase |
+|  **aythen** | Sistema de facturación con Inteligencia Artificial para entorno empresarial | React · TypeScript · Redux |
+|  **nova-web** | Plataforma web desarrollada para entorno corporativo | Vue |
+|  **nst-apk** | Landing page para distribución centralizada de APKs internos | Vue · Vite |
 
 ---
 
@@ -37,23 +38,32 @@ Me especializo en el desarrollo de aplicaciones con **Flutter, Vue, JavaScript y
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🌐 Frontend
+### 🌐 Web Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🧠 Backend / Data
+### 🧠 Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### ⚙️ Herramientas
+### 🗄️ Backend as a Service & Data
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Drift](https://img.shields.io/badge/Drift-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
+
+### ⚙️ Estado, Arquitectura y Herramientas
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ## 💼 Enfoque Profesional
@@ -68,15 +78,11 @@ Me interesa seguir construyendo software que aporte valor real a empresas, espec
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lex-fabian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lex-fabian&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lex-fabian&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
