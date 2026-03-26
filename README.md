@@ -85,6 +85,10 @@ Me interesa seguir construyendo software que aporte valor real a empresas, espec
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lex-fabian&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lex-fabian&theme=tokyonight&hide_border=true" />
+</div>
+
 ---
 
 ## 📫 Contacto
