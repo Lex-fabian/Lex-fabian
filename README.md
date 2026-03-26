@@ -68,10 +68,10 @@ Desarrollador apasionado por construir soluciones reales que resuelven problemas
 ## 📫 Contacto
 
 <div align="center">
-  <a href="TU_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/lex-fabián-7933b0355">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:alexugsha87@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
